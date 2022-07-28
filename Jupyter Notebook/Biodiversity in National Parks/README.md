@@ -8,6 +8,6 @@
 - Where are Canids most likely to be spotted?
 ---
 **Files**
-- `biodiversity_in_national_parks.ipynb`: Offical Jupyter Notebook project
+- `biodiversity.ipynb`: Offical Jupyter Notebook project
 - `biodiversity.html`: Html version of the project
 - `species_info.csv` and `observations.csv`: Fictional but based on real data
