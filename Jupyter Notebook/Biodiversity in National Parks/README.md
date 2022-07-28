@@ -6,5 +6,8 @@ Examining different species observed in four major national parks, this project 
 - Which species were most frequently observed?
 - What is the rarest bird to spot at each park?
 - Where are Canids most likely to be spotted?
-
- *(fictional but based on real data)*
+---
+**Files**
+- `biodiversity_in_national_parks.ipynb`: Offical Jupyter Notebook project
+- `biodiversity.html`: Html version of the project
+- `species_info.csv` and `observations.csv`: Fictional but based on real data
